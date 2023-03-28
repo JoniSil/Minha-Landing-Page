@@ -1,0 +1,47 @@
+/*Estrutura do site*/
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section#container {
+    width: 760px;
+    height: 450px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type:none;
+    align-items: center;
+    padding: px;
+}
+
+nav#menu ul {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Rodapé*/
+footer#container-rodape {
+    padding: 450px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    
+}
+
